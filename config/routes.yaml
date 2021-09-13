@@ -1,6 +1,6 @@
-home:
-   path: /
-   controller: App\Controller\TestController::hello
+# home:
+#    path: /
+#    controller: App\Controller\TestController::hello
 # bye:
 #   path: /bye
 #   controller: App\Controller\TestController::bye
